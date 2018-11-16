@@ -13,7 +13,7 @@
 <div class="display-4 text-center">Inscription</div>
 
    
-<form method="POST" action=""  class="shadow p-3 mb-5 rounded " style="background-color:#ececec;">
+<form method="POST" action=""  class="shadow p-3 mb-5 rounded " style="heigth:150px; background-color:#ececec; ">
   <div class="form-row">
   <div class="col form-group col-sm-12">
     <label for="Pseudo">Pseudo</label>
