@@ -9,12 +9,16 @@
     <title>Mon site</title>
 </head>
 <body>
+
 <div class="container">
+<div class="row">
+
 <div class="display-4 text-center">Inscription</div>
 
    
 <form method="POST" action=""  class="shadow p-3 mb-5 rounded " style="background-color:#ececec;">
   <div class="form-row">
+  
   <div class="col form-group col-sm-12">
     <label for="Pseudo">Pseudo</label>
       <input type="text" class="form-control" id="Pseudo" name="psedo"  placeholder="Pseudo">
@@ -32,16 +36,16 @@
       <label for="ConfirmPassword">Confirmer password</label>
       <input type="password" class="form-control"  name="Confirm"id="ConfirmPassword" placeholder="Password">
     </div> <!--Confirmer password-->
-    
  
    
       <button type="submit" class="col-sm-12 btn btn-info">Inscription</button>
   </div>
-</form>
-
-<!---->
-
+    </form>
+    <p>что-то написать просто так</p>
+    <!---->
+    </div>
 </div>
+    
 
 
 
